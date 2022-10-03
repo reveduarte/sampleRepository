@@ -1,0 +1,2 @@
+# sampleRepository
+familiarizing with github
